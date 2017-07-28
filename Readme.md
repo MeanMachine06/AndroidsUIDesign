@@ -1,0 +1,1 @@
+An app to practice android's UI and UX design.
